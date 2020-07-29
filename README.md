@@ -4,8 +4,3 @@
 </p>
 </a>
 <p align="center">
-<br/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=noctrlz1110&show_icons=true" alt="noctrlz1110" /> 
-</p>
